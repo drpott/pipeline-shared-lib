@@ -27,3 +27,4 @@ def call(String message, String facility) {
             break        
         }
     }
+}
